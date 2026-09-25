@@ -2,7 +2,7 @@
 
 How do I access Apple Writing Tools in my Text Inputs and 4D Write Pro Areas (4D 21 R4)
 
-Find more information on the [blog post](https://blog.4d.com/)](https://blog.4d.com/apple-writing-tools-now-available-in-4d-write-pro-and-text-input/).
+Find more information on the [blog post](https://blog.4d.com/apple-writing-tools-now-available-in-4d-write-pro-and-text-input/)
 
 ## Installing and Using a 4D Project
 
